@@ -1,9 +1,8 @@
-stage
-spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
-tank
+backalley
+GreenHill
+GreenHill2
+IsolatedIsland
+livingroom
+livingroom2
+tetris 
+Tourian
